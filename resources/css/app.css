@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --ink: #172b25;
+    --forest: #23493d;
+    --leaf: #a4bf78;
+    --citrus: #e8b24a;
+    --paper: #f7f7f1;
+    --muted: #64746d;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: 'DM Sans', sans-serif;
+}
+
+.font-display {
+    font-family: 'Fraunces', Georgia, serif;
+}
+
+.hero-field {
+    background: linear-gradient(105deg, rgba(19, 43, 34, .9) 0%, rgba(25, 53, 41, .74) 55%, rgba(25, 53, 41, .18) 100%);
+}
+
+.page-enter {
+    animation: page-enter .55s ease-out both;
+}
+
+@keyframes page-enter {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}

@@ -1,0 +1,97 @@
+<?php
+
+return [
+    'default' => [
+        'url' => 'https://images.unsplash.com/photo-1704031320023-a43c910b0e84?auto=format&fit=crop&w=960&q=80',
+        'credit' => 'Zhao Yangjun',
+        'license' => 'Unsplash License',
+        'license_url' => 'https://unsplash.com/license',
+        'source' => 'https://unsplash.com/photos/a-large-field-of-green-grass-with-a-sky-background-dDAzpSUAbgI',
+    ],
+    'items' => [
+        'Cocoa Beans' => [
+            'url' => 'https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Cocoa_beans_in_cocoa_pod_at_El_Trapiche%2C_Costa_Rica.jpg/960px-Cocoa_beans_in_cocoa_pod_at_El_Trapiche%2C_Costa_Rica.jpg',
+            'credit' => 'Aude',
+            'license' => 'CC BY-SA 3.0',
+            'license_url' => 'https://creativecommons.org/licenses/by-sa/3.0/',
+            'source' => 'https://commons.wikimedia.org/wiki/File:Cocoa_beans_in_cocoa_pod_at_El_Trapiche,_Costa_Rica.jpg',
+        ],
+        'Cassava Flour' => [
+            'url' => 'https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Cassava_and_Maize_flour.jpg/960px-Cassava_and_Maize_flour.jpg',
+            'credit' => 'Confidence24',
+            'license' => 'CC BY-SA 4.0',
+            'license_url' => 'https://creativecommons.org/licenses/by-sa/4.0/',
+            'source' => 'https://commons.wikimedia.org/wiki/File:Cassava_and_Maize_flour.jpg',
+        ],
+        'Palm Oil 5L' => [
+            'url' => 'https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Red_oil_processed_from_palm_front.jpg/960px-Red_oil_processed_from_palm_front.jpg',
+            'credit' => 'Daniel Paullll',
+            'license' => 'CC BY-SA 4.0',
+            'license_url' => 'https://creativecommons.org/licenses/by-sa/4.0/',
+            'source' => 'https://commons.wikimedia.org/wiki/File:Red_oil_processed_from_palm_front.jpg',
+        ],
+        'Maize Grain' => [
+            'url' => 'https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Corn_with_white_and_yellow_kernels.jpg/960px-Corn_with_white_and_yellow_kernels.jpg',
+            'credit' => 'Jud McCranie',
+            'license' => 'CC BY-SA 4.0',
+            'license_url' => 'https://creativecommons.org/licenses/by-sa/4.0/',
+            'source' => 'https://commons.wikimedia.org/wiki/File:Corn_with_white_and_yellow_kernels.jpg',
+        ],
+        'Shea Butter' => [
+            'url' => 'https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Shea_butter.jpg/960px-Shea_butter.jpg',
+            'credit' => 'Amuzujoe',
+            'license' => 'CC BY-SA 4.0',
+            'license_url' => 'https://creativecommons.org/licenses/by-sa/4.0/',
+            'source' => 'https://commons.wikimedia.org/wiki/File:Shea_butter.jpg',
+        ],
+        'Dried Ginger' => [
+            'url' => 'https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Dry_ginger.jpg/960px-Dry_ginger.jpg',
+            'credit' => 'Piyush Kothari',
+            'license' => 'CC BY-SA 4.0',
+            'license_url' => 'https://creativecommons.org/licenses/by-sa/4.0/',
+            'source' => 'https://commons.wikimedia.org/wiki/File:Dry_ginger.jpg',
+        ],
+        'Rice 50kg' => [
+            'url' => 'https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Mushqbudji_rice_grains_close-up.jpg/960px-Mushqbudji_rice_grains_close-up.jpg',
+            'credit' => 'Zahoor Ahmad Reshi',
+            'license' => 'CC0',
+            'license_url' => 'https://creativecommons.org/publicdomain/zero/1.0/',
+            'source' => 'https://commons.wikimedia.org/wiki/File:Mushqbudji_rice_grains_close-up.jpg',
+        ],
+        'Beans 25kg' => [
+            'url' => 'https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Dried_beans_in_the_market.jpg/960px-Dried_beans_in_the_market.jpg',
+            'credit' => 'Emmanuel Ssekaggo',
+            'license' => 'CC BY-SA 4.0',
+            'license_url' => 'https://creativecommons.org/licenses/by-sa/4.0/',
+            'source' => 'https://commons.wikimedia.org/wiki/File:Dried_beans_in_the_market.jpg',
+        ],
+        'Garri 10kg' => [
+            'url' => 'https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Cassava_and_Maize_flour.jpg/960px-Cassava_and_Maize_flour.jpg',
+            'credit' => 'Confidence24',
+            'license' => 'CC BY-SA 4.0',
+            'license_url' => 'https://creativecommons.org/licenses/by-sa/4.0/',
+            'source' => 'https://commons.wikimedia.org/wiki/File:Cassava_and_Maize_flour.jpg',
+        ],
+        'Plantain Flour' => [
+            'url' => 'https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Fufu_plantain_Ghana_1.jpg/960px-Fufu_plantain_Ghana_1.jpg',
+            'credit' => 'ZELSC',
+            'license' => 'CC0',
+            'license_url' => 'https://creativecommons.org/publicdomain/zero/1.0/',
+            'source' => 'https://commons.wikimedia.org/wiki/File:Fufu_plantain_Ghana_1.jpg',
+        ],
+        'Groundnut Oil 5L' => [
+            'url' => 'https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Groundnut_oil.jpg/960px-Groundnut_oil.jpg',
+            'credit' => 'KISUMAR123',
+            'license' => 'CC0',
+            'license_url' => 'https://creativecommons.org/publicdomain/zero/1.0/',
+            'source' => 'https://commons.wikimedia.org/wiki/File:Groundnut_oil.jpg',
+        ],
+        'Honey 1L' => [
+            'url' => 'https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Selection_of_creamed_honey_jars_from_Europe.jpg/960px-Selection_of_creamed_honey_jars_from_Europe.jpg',
+            'credit' => 'Hayden Soloviev',
+            'license' => 'CC BY 4.0',
+            'license_url' => 'https://creativecommons.org/licenses/by/4.0/',
+            'source' => 'https://commons.wikimedia.org/wiki/File:Selection_of_creamed_honey_jars_from_Europe.jpg',
+        ],
+    ],
+];
